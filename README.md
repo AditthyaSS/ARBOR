@@ -335,15 +335,6 @@ These mechanisms improve deployment reliability in real-world indoor environment
 
 ---
 
-# 👥 Team
-
-## Team 34
-
-* Dayashree S
-* Sharan S
-* Aditthya SS Varma
-* Yashika Bhardwaj
-* Nithin Kumar HS
 
 ### Institution
 
