@@ -335,12 +335,6 @@ These mechanisms improve deployment reliability in real-world indoor environment
 
 ---
 
-### Faculty Mentor
-
-Dr. Prabin Kumar Jha
-
----
-
 # 📖 References
 
 Key technologies and concepts used in ARBOR:
