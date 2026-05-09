@@ -390,7 +390,3 @@ This project is currently developed as part of a university innovation and resea
 Future open-source licensing details will be added after core implementation completion.
 
 ---
-
-# 🌳 ARBOR
-
-> Adaptive coordination for the next generation of modular autonomous robotics.
