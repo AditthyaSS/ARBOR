@@ -335,15 +335,6 @@ These mechanisms improve deployment reliability in real-world indoor environment
 
 ---
 
-
-### Institution
-
-Amity University Bengaluru
-
-### Department
-
-ASET
-
 ### Faculty Mentor
 
 Dr. Prabin Kumar Jha
