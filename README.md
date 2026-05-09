@@ -1,4 +1,4 @@
-# ARBOR 🌳🤖
+# ARBOR
 
 ## Adaptive ROS2-Based Behaviour Orchestration for Autonomous Service Robotics
 
