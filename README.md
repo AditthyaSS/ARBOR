@@ -88,7 +88,7 @@ Where:
 
 ---
 
-# ⚙️ Key Features
+#  Key Features
 
 ## 🚗 Autonomous Navigation
 
