@@ -39,7 +39,7 @@ ARBOR is built as a practical robotics systems engineering project using:
 
 ---
 
-# 🎯 Core Research Idea
+#  Core Research Idea
 
 The project explores:
 
