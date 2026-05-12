@@ -149,7 +149,7 @@ Robot Motion
 
 ---
 
-# 🤖 Behaviour Agents
+#  Behaviour Agents
 
 | Agent                    | Responsibility                              |
 | ------------------------ | ------------------------------------------- |
